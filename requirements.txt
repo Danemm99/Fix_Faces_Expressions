@@ -1,0 +1,7 @@
+numpy
+mediapipe
+opencv-python
+Pillow
+diffusers
+transformers
+accelerate
